@@ -75,11 +75,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subrata-bhunia&show_icons=true&theme=monokai&count_private=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bika24&show_icons=true&theme=monokai&count_private=true"
             alt="Subrata's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrata-bhunia&theme=monokai"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bika24&theme=monokai"
             alt="Subrata's Github commit streak">
     </a>
 <!--     <a href="https://wakatime.com/@subrata_bhunia/">
