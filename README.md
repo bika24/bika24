@@ -55,7 +55,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ##  &#x1f4c8; **Languages**
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata-bhunia&show_icons=true&locale=en&layout=compact&theme=radical" alt="Subrata" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bika24&show_icons=true&locale=en&layout=compact&theme=radical" alt="Subrata" />
  
  ## **💻 Some Project**
  
